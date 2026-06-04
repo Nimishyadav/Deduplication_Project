@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,Time(s)
+TF-IDF + Cosine,0.965,1.0,0.93,0.9637,0.9994,0.092
+MinHash,0.99,0.9804,1.0,0.9901,1.0,0.81
+Logistic Regression,0.995,0.9901,1.0,0.995,1.0,0.947
